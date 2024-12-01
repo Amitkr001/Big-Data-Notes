@@ -150,7 +150,9 @@ Big Data systems require robust infrastructure consisting of storage, processing
 - Supports data transfer between nodes in distributed systems.  
 
 #### **3. Parallel Processing Frameworks:**  
-- Enable simultaneous analysis of data chunks across multiple nodes.  
+- Enable simultaneous analysis of data chunks across multiple nodes.
+
+![Infrastructure for Big Data](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.altexsoft.com%2Fblog%2Fbig-data-healthcare%2F&psig=AOvVaw1RP8ijavlVvBaTxkdPzXs0&ust=1733065700313000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCKDv5IKrhIoDFQAAAAAdAAAAABAc)
 
 ---
 
